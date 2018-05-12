@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34888'
     url: http://www.gutenberg.org/2009/agents/34888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30909#The-Church--Her-Books-and-Her-Sacraments
 gutenberg_issued: '2010-01-09'
 gutenberg_type: Text
 identifiers:
